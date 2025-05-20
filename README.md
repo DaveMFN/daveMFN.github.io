@@ -1,3 +1,3 @@
-- Dave King, davidpkingjr@yahoo.com
+- Dave King, dking15@my.waketech.edu
 - # daveMFN.github.io is my school account
 - This repository will hold assignments
