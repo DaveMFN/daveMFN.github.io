@@ -1,1 +1,3 @@
-# daveMFN.github.io
+- Dave King, davidpkingjr@yahoo.com
+- # daveMFN.github.io is my school account
+- This repository will hold assignments
